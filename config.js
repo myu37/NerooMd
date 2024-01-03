@@ -13,7 +13,7 @@ global.owner = [
   ['6285174306183', 'NANS OFFC', true],
   ['6285174306183'], 
   ['6285174306183'],
-  ['6285880029379']
+  ['6285768165508']
 ] // Nomor Owner
 
 global.mods = ['6285174306183'] 
@@ -44,15 +44,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Watermark
-global.nama = 'NANS OFFC' // nama owner
-global.nomor = '6285880029379' // nomor owner
-global.nans = 'NANS OFFC' // nama bot 
+global.nama = 'ALLZ ZXC' // nama owner
+global.nomor = '6285768165508' // nomor owner
+global.nans = 'PANS ZXC' // nama bot 
 global.thumb = 'https://i.ibb.co/w4KjD1z/20230813-230848.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com/KLbE1i5U4y9I0OVli5jcKM' // link group yang ada di menu
 
 // Sticker wm
-global.packname = 'NERO MD┃ᴮᴼᵀ' 
-global.author = '@nansoffc' 
+global.packname = 'PANS MD┃ᴮᴼᵀ' 
+global.author = '@PANSZXC' 
 global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/nansoffc\n'
 global.fgsc = 'https://github.com/nanzone' 
 global.fgyt = 'https://nansoffc.my.id/'
